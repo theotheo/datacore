@@ -3,7 +3,7 @@ on:
   push:
     tags: ["*"]
 env:
-  PLUGIN_NAME: card-list-obsidian
+  PLUGIN_NAME: datacore
 jobs:
   build:
     runs-on: ubuntu-latest
